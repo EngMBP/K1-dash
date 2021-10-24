@@ -8,7 +8,7 @@ exit;
 ?>
 <html lang="es">
 <head>
-<title>IOT VFT</title>
+<title>IOT VFT hola master</title>
 
 <link rel="apple-touch-icon" href="img/icon-72x72.png?80172489134" />
 <link rel="apple-touch-icon" href="img/icon-96x96.png?80172489134" />
